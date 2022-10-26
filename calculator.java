@@ -10,6 +10,6 @@ public static double divide(int x, int y) {
 	return (double)x/y;
 }
 public static void say_hi() {
-	System.out.println("hi");
+	System.out.println("branch");
 }
 }
